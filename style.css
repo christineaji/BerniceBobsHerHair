@@ -2,10 +2,11 @@ body {
 	font-family: 'Helvetica', 'Arial', san-serif;
     max-width: 100%
 }
+
 .container {
     width: 100%;
-    margin-top: 5%;
-
+    margin-top: 2%;
+    color: #4A4A4A;
 }
 
 .left-content
@@ -21,7 +22,8 @@ body {
     margin-right: 8%;  
  }
  
- .pagin{
+.pagin{
+    font-weight: bold;
     color: #E67844;
 }
 
@@ -30,6 +32,16 @@ body {
     font-size: 20px;
     margin-right: 16%;
     margin-top: 2%;
+}
+
+.pagination a:hover {
+    text-decoration: none;
+    color: #E67844;
+}
+
+.pagination a{
+    text-decoration: none;
+    color: black;
 }
 
 nav {
@@ -54,48 +66,61 @@ body nav ul li a:hover {
     text-decoration: none;
     color: #E67844;
 }
+
 body nav ul li span img {
     margin-top: -5%;
     padding-right: 15px;
 }
 
+.disp-date{
+    font-size: 12px;
+    color: #979aa0;
+    margin-top: -15px;
+}
+
 .home{
     color:#E67844;
 }
-.sidebar >  div > ul > li {
+
+.sidebar div ul li {
     display: -webkit-box;
-      margin-bottom: 1.5em;
+    margin-bottom: 1.5em;
+    margin-top: -15px;
 
 }
-.sidebar >div {
-        margin-bottom: 9%;
+
+.sidebar div {
+    margin-bottom: 9%;
 }
+
 .side-head {
-            font-size: 120%;
+    font-size: 120%;
     margin-left: 10%;
 }
+
 .heading-text{
     color: #E67844;
-        padding-left: 1em;
-            font-weight: normal;
-
-
+    padding-left: 1em;
+    font-weight: normal;
 }
 
 .sidebar > div {
     border: 1px solid black;
-        margin-top: 1em;
-            margin-top: 0;
+    margin-top: 1em;
+    margin-top: 0;
 }
+
 #head {
     display: inline-flex;
     margin-top: 1em;
     margin-left: 2%;
 }
+
 #head h2  {
-        font-size: 24px;
-        padding-left: 15px;
+    font-size: 24px;
+    padding-left: 15px;
 }
+
 .page-wrapper {
 	display: -webkit-inline-box;
 }
@@ -104,23 +129,26 @@ body nav ul li span img {
 {
     display: -webkit-box;
 }
+
 .about-auth {
-       margin-top: -1em;
+    margin-top: -1em;
     margin-left: 2em;
 }
 
 .main {
-    border: 1px solid black;
+    border: 1px solid;
+    border-color: #4A4A4A;
     padding: 2em;
-    margin-bottom: 10%;
+    margin-bottom: 50px;
 }
+
 time  {
     color: #979aa0;
 }
 
-body > div.page-wrapper > div.sidebar > div > ul > li {
+body div.page-wrapper > div.sidebar > div > ul > li {
     list-style: none;
-        display: -webkit-inline-box;
+    display: -webkit-inline-box;
 
 }
 
@@ -134,47 +162,63 @@ body > div.page-wrapper > div.sidebar > div > ul > li {
   height: 30px;
   background-color: #E67844;
 }
+
 .profile-name {
     color: #E67844;
 }
-.comments > p > span {
+
+.comments p span {
     color: #E67844;
 }
+
 .comment-like {
-        display: -webkit-box;
+    display: -webkit-box;
 
 }
+
 .like, .comment {
     display: -webkit-box;
     padding-right: 1em;
 }
+
 .like-text, .comment-text {
-    margin-left: 1em;
+    margin-left:10px;
+    margin-top: -10px;
+
 }
-.like-text > a, .comment-text > a {
+
+.like-text a, .comment-text a {
     text-decoration: none;
     color: black;
 }
+
+.like-text a:hover, .comment-text a:hover {
+    text-decoration: none;
+    color: #E67844;
+}
+
 .progress {
     background-color: #d4d4d4;
     width: 32em;
     height: 2em;
-
     margin-left: 5%;
     margin-top: -1%;
 
 }
+
 .poll  {
     display: -webkit-box;
 }
+
 #progress-like1 {
-        background-color: #e67844;
+    background-color: #e67844;
     width: 25em;
     height: 2em;
 
 }
+
 #progress-like2 {
-        background-color: #e67844;
+    background-color: #e67844;
     width: 10em;
     height: 2em;
 
