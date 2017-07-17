@@ -1,24 +1,26 @@
 body {
-	font-family: Helvetica;
+	font-family: 'Helvetica', 'Arial', san-serif;
     max-width: 100%
 }
 .container {
     width: 100%;
-        margin-top: 4%;
+    margin-top: 5%;
 
 }
+
 .left-content
  {
-        width: 53%;
+    width: 53%;
     float: left;
     margin-left: 9%;
  }
+ 
  .right-content {
     width: 27%;
     float: right;
-    margin-right: 8%;
-     
+    margin-right: 8%;  
  }
+ 
  .pagin{
     color: #E67844;
 }
@@ -29,28 +31,36 @@ body {
     margin-right: 16%;
     margin-top: 2%;
 }
+
 nav {
 	float: right;
-	font-size: 150%;
+	font-size: 18px;
 }
-body > nav > ul > li {
+
+body nav ul li {
     float: left;
     list-style: none;
-        padding: 1em;
+    padding: 1em;
 
 }
-body > nav > ul > li > a {
+
+body nav ul li a {
     text-decoration: none;
     color: black;
-        vertical-align: top;
+    vertical-align: top;
 }
-body > nav > ul > li > a:hover {
+
+body nav ul li a:hover {
     text-decoration: none;
     color: #E67844;
 }
-body > nav > ul > li > span > img {
+body nav ul li span img {
     margin-top: -5%;
-    padding-right: 1.1em;
+    padding-right: 15px;
+}
+
+.home{
+    color:#E67844;
 }
 .sidebar >  div > ul > li {
     display: -webkit-box;
@@ -82,8 +92,9 @@ body > nav > ul > li > span > img {
     margin-top: 1em;
     margin-left: 2%;
 }
-#head > h2  {
-        font-size: 200%;
+#head h2  {
+        font-size: 24px;
+        padding-left: 15px;
 }
 .page-wrapper {
 	display: -webkit-inline-box;
