@@ -1,0 +1,170 @@
+body {
+	font-family: Helvetica;
+    max-width: 100%
+}
+.container {
+    width: 100%;
+        margin-top: 4%;
+
+}
+.left-content
+ {
+        width: 53%;
+    float: left;
+    margin-left: 9%;
+ }
+ .right-content {
+    width: 27%;
+    float: right;
+    margin-right: 8%;
+     
+ }
+ .pagin{
+    color: #E67844;
+}
+
+.pagination {
+    float: right;
+    font-size: 20px;
+    margin-right: 16%;
+    margin-top: 2%;
+}
+nav {
+	float: right;
+	font-size: 150%;
+}
+body > nav > ul > li {
+    float: left;
+    list-style: none;
+        padding: 1em;
+
+}
+body > nav > ul > li > a {
+    text-decoration: none;
+    color: black;
+        vertical-align: top;
+}
+body > nav > ul > li > a:hover {
+    text-decoration: none;
+    color: #E67844;
+}
+body > nav > ul > li > span > img {
+    margin-top: -5%;
+    padding-right: 1.1em;
+}
+.sidebar >  div > ul > li {
+    display: -webkit-box;
+      margin-bottom: 1.5em;
+
+}
+.sidebar >div {
+        margin-bottom: 9%;
+}
+.side-head {
+            font-size: 120%;
+    margin-left: 10%;
+}
+.heading-text{
+    color: #E67844;
+        padding-left: 1em;
+            font-weight: normal;
+
+
+}
+
+.sidebar > div {
+    border: 1px solid black;
+        margin-top: 1em;
+            margin-top: 0;
+}
+#head {
+    display: inline-flex;
+    margin-top: 1em;
+    margin-left: 2%;
+}
+#head > h2  {
+        font-size: 200%;
+}
+.page-wrapper {
+	display: -webkit-inline-box;
+}
+
+.main-head
+{
+    display: -webkit-box;
+}
+.about-auth {
+       margin-top: -1em;
+    margin-left: 2em;
+}
+
+.main {
+    border: 1px solid black;
+    padding: 2em;
+    margin-bottom: 10%;
+}
+time  {
+    color: #979aa0;
+}
+
+body > div.page-wrapper > div.sidebar > div > ul > li {
+    list-style: none;
+        display: -webkit-inline-box;
+
+}
+
+#myProgress {
+  width: 100%;
+  background-color: #dee1e5;
+}
+
+#myBar {
+  width: 20%;
+  height: 30px;
+  background-color: #E67844;
+}
+.profile-name {
+    color: #E67844;
+}
+.comments > p > span {
+    color: #E67844;
+}
+.comment-like {
+        display: -webkit-box;
+
+}
+.like, .comment {
+    display: -webkit-box;
+    padding-right: 1em;
+}
+.like-text, .comment-text {
+    margin-left: 1em;
+}
+.like-text > a, .comment-text > a {
+    text-decoration: none;
+    color: black;
+}
+.progress {
+    background-color: #d4d4d4;
+    width: 32em;
+    height: 2em;
+
+    margin-left: 5%;
+    margin-top: -1%;
+
+}
+.poll  {
+    display: -webkit-box;
+}
+#progress-like1 {
+        background-color: #e67844;
+    width: 25em;
+    height: 2em;
+
+}
+#progress-like2 {
+        background-color: #e67844;
+    width: 10em;
+    height: 2em;
+
+}
