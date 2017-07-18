@@ -1,5 +1,5 @@
 body {
-	font-family: 'Helvetica', 'Arial', san-serif;
+	font-family: 'Helvetica', san-serif;
     max-width: 100%
 }
 
@@ -226,4 +226,8 @@ body div.page-wrapper > div.sidebar > div > ul > li {
     width: 10em;
     height: 2em;
 
+}
+
+#giphy {
+    padding-top: 20px;
 }
