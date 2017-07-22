@@ -1,0 +1,237 @@
+body {
+	font-family: 'Helvetica', san-serif;
+    max-width: 100%;
+}
+
+.container {
+    width: 100%;
+    margin-top: 2%;
+    color: #4A4A4A;
+}
+
+.left-content
+ {
+    width: 53%;
+    float: left;
+    margin-left: 9%;
+ }
+ 
+ .right-content {
+    width: 27%;
+    float: right;
+    margin-right: 8%;  
+ }
+ 
+.pagin {
+    font-weight: bold;
+    color: #E67844;
+}
+
+.pagin {
+    color: #E67844;
+}
+
+.pagination {
+    float: right;
+    font-size: 20px;
+    margin-right: 16%;
+    margin-top: 2%;
+    margin-bottom: 16%;
+}
+
+.pagination a:hover {
+    text-decoration: none;
+    color: #E67844;
+}
+
+.pagination a{
+    text-decoration: none;
+    text-decoration-color: #9B9B9B;
+}
+
+nav {
+	float: right;
+	font-size: 18px;
+}
+
+body nav ul li {
+    float: left;
+    list-style: none;
+    padding: 1em;
+
+}
+
+body nav ul li a {
+    text-decoration: none;
+    color: black;
+    vertical-align: top;
+}
+
+body nav ul li a:hover {
+    text-decoration: none;
+    color: #E67844;
+}
+
+body nav ul li span img {
+    margin-top: -5%;
+    padding-right: 15px;
+}
+
+.disp-date{
+    font-size: 12px;
+    color: #979aa0;
+    margin-top: -15px;
+}
+
+.home{
+    color:#E67844;
+}
+
+.sidebar div ul li {
+    display: -webkit-box;
+    margin-bottom: 1.5em;
+    margin-top: -15px;
+
+}
+
+.sidebar div {
+    margin-bottom: 9%;
+}
+
+.side-head {
+    font-size: 16px;
+    margin-left: 10%;
+}
+
+.heading-text{
+    color: #E67844;
+    padding-left: 1em;
+    font-weight: normal;
+    font-size: 16px;
+}
+
+.sidebar > div {
+    border: 1px solid black;
+    margin-top: 1em;
+    margin-top: 0;
+}
+
+#head {
+    display: inline-flex;
+    margin-top: 1em;
+    margin-left: 2%;
+}
+
+#head h2  {
+    font-size: 24px;
+    padding-left: 15px;
+}
+
+.page-wrapper {
+	display: -webkit-inline-box;
+}
+
+.main-head
+{
+    display: -webkit-box;
+}
+
+.about-auth {
+    margin-top: -1em;
+    margin-left: 2em;
+}
+
+.main {
+    border: 1px solid;
+    background-color: white;
+    border-color: #4A4A4A;
+    padding: 2em;
+    margin-bottom: 50px;
+}
+
+time  {
+    color: #979aa0;
+}
+
+body div.page-wrapper > div.sidebar > div > ul > li {
+    list-style: none;
+    display: -webkit-inline-box;
+
+}
+
+#myProgress {
+  width: 100%;
+  background-color: #dee1e5;
+}
+
+#myBar {
+  width: 20%;
+  height: 30px;
+  background-color: #E67844;
+}
+
+.profile-name {
+    color: #E67844;
+}
+
+.comments p span {
+    color: #E67844;
+}
+
+.comment-like {
+    display: -webkit-box;
+
+}
+
+.like, .comment {
+    display: -webkit-box;
+    padding-right: 1em;
+}
+
+.like-text, .comment-text {
+    margin-left:10px;
+    margin-top: -10px;
+
+}
+
+.like-text a, .comment-text a {
+    text-decoration: none;
+    color: black;
+}
+
+.like-text a:hover, .comment-text a:hover {
+    text-decoration: none;
+    color: #E67844;
+}
+
+.progress {
+    background-color: #d4d4d4;
+    width: 635px;
+    height: 2em;
+    margin-left: 3%;
+    margin-top: -1%;
+    margin-bottom:1%;
+
+}
+
+.poll  {
+    display: -webkit-box;
+}
+
+#progress-like1 {
+    background-color: #e67844;
+    width: 25em;
+    height: 2em;
+
+}
+
+#progress-like2 {
+    background-color: #e67844;
+    width: 10em;
+    height: 2em;
+
+}
+
+#giphy {
+    padding-top: 20px;
+}
