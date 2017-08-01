@@ -12,7 +12,7 @@ body {
 
 /* Your CSS goes here */
 .empty {
-	height: 80px;
+	height: 90px;
 }
 
 .book-one {
@@ -85,5 +85,15 @@ body {
 	width: 1000px;
 	height: 70px;
 	background: grey;
-	margin-top: -70px;
+	margin-top: 10px;
+}
+
+.flower {
+	width: 100px;
+	height: 200px;
+	background: pink;
+	transform: rotate(90);
+	margin-top: -280px;
+	margin-bottom: -10px;
+	margin-left: 540px;
 }
