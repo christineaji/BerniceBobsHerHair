@@ -1,0 +1,3718 @@
+body{
+	background-color: #008000;
+}
+
+
+#customline{
+    color: white;
+    font-family: Helvetica, san-serif;
+    font-size: 19px;
+    margin-left: 33%;
+}
+
+/*Css for Title*/
+#title{
+
+	position: relative;
+    left: 28%;
+}
+
+#e > div.rect8{
+
+	width: 15px;
+    height: 98px;
+    border: 1px solid #ffffff ;
+    float: left;
+    margin-left: 20px;
+}
+
+#e > div.rect9{
+
+	    width: 45px;
+    height: 15px;
+    border: 1px solid #ffffff ;
+    float: left;
+    margin-left: -17px;
+}
+
+#e > div.rect10{
+	width: 45px;
+    height: 14px;
+    border: 1px solid #ffffff ;
+    float: left;
+    margin-top: 84px;
+    margin-left: -47px;
+}
+
+#e > div.rect11{
+	    width: 31px;
+    height: 15px;
+    border: 1px solid #ffffff ;
+    float: left;
+    margin-top: 43px;
+    margin-left: -47px;
+}
+
+#t > div.rect44{
+	    width: 15px;
+    height: 98px;
+    border: 1px solid #ffffff ;
+    float: left;
+    margin-left: 50px;
+}
+
+#t > div.rect45{
+	width: 52px;
+    height: 15px;
+    border: 1px solid #ffffff ;
+    float: left;
+    margin-top: 0px;
+    margin-left: -36px;
+}
+
+#n > div.rect33{
+	    width: 15px;
+    height: 98px;
+    border: 1px solid #ffffff ;
+    float: left;
+    margin-left: 24px;
+}
+
+#n > div.rect34{
+	    width: 15px;
+    height: 98px;
+    border: 1px solid #ffffff ;
+    float: left;
+    margin-left: 26px;
+}
+
+#n > div.rect35{
+	    width: 58px;
+    height: 15px;
+    border: 1px solid #ffffff ;
+    float: left;
+    margin-top: 0px;
+    margin-left: -60px;
+}
+
+#n1 > div.rect33{
+	    width: 15px;
+    height: 98px;
+    border: 1px solid #ffffff ;
+    float: left;
+    margin-left: 24px;
+}
+
+#n1 > div.rect34{
+	    width: 15px;
+    height: 98px;
+    border: 1px solid #ffffff ;
+    float: left;
+    margin-left: 26px;
+}
+
+#n1 > div.rect35{
+	    width: 58px;
+    height: 15px;
+    border: 1px solid #ffffff ;
+    float: left;
+    margin-top: 0px;
+    margin-left: -60px;
+}
+
+#i > div{
+	    width: 15px;
+    height: 98px;
+    border: 1px solid #ffffff ;
+    float: left;
+    margin-left: 20px;
+}
+
+#s > div.rect41{
+	width: 15px;
+    height: 98px;
+    border: 1px solid #ffffff ;
+    float: left;
+    margin-left: 40px;
+}
+
+#s > div.rect42{
+	width: 43px;
+    height: 15px;
+    border: 1px solid #ffffff;
+    float: left;
+    margin-top: 83px;
+    margin-left: -45px;
+}
+
+#s > div.rect43{
+	width: 40px;
+    height: 15px;
+    border: 1px solid #ffffff ;
+    float: left;
+    margin-top: 0px;
+    margin-left: -17px;
+}
+
+/*Css for Monica*/
+
+#monicasalas{
+    margin-left: 25%;
+    margin-top: 7%;
+}
+
+#m{
+    margin-left: 62px;
+}
+
+#m > div.rect31 {
+    width: 7.5px;
+    height: 49px;
+    border: 1px solid #fff;
+    float: left;
+    z-index: 1;
+    background-color: green;
+    position: relative;
+    left: -20px;
+}
+
+#m > div.circle4 {
+    border-radius: 50px;
+    width: 32.5px;
+    height: 32.5px;
+    border: 1px solid #fff;
+    position: relative;
+    left: -17px;
+}
+
+#m > div.rect32 {
+    width: 7.5px;
+    height: 49px;
+    border: 1px solid #fff;
+    float: left;
+    z-index: 1;
+    background-color: green;
+    position: relative;
+    top: -35px;
+}
+
+#o {
+    position: relative;
+    top: 9px;
+    right: 13px;
+}
+
+#o > div.circle5 {
+    border-radius: 50px;
+    width: 50px;
+    height: 49px;
+    border: 1px solid #fff;
+    position: relative;
+}
+
+#o > div.rect36 {
+    width: 7.5px;
+    height: 49px;
+    border: 1px solid #fff;
+    float: left;
+    position: relative;
+    top: -51px;
+    left: 22px;
+}
+
+#n2 {
+    position: relative;
+    bottom: 15px;
+    right: 9px;
+}
+
+#n2 > div.rect33 {
+    width: 7.5px;
+    height: 49px;
+    border: 1px solid #fff;
+    float: left;
+    position: relative;
+}
+
+#n2 > div.rect34 {
+    width: 7.5px;
+    height: 49px;
+    border: 1px solid #fff;
+    float: left;
+    position: relative;
+    left: 20px; 
+}
+
+#n2 > div.rect35 {
+    width: 37px;
+    height: 7.5px;
+    border: 1px solid #fff;
+    float: left;
+    position: relative;
+    left: -19px;
+}
+
+#i1 {
+    position: relative;
+    right: 43px;
+    bottom: 15px;
+}
+
+#i1 > div {
+    width: 9px;
+    height: 50px;
+    border: 1px solid #ffffff;
+    float: left;
+    margin-left: 20px;
+}
+
+#c {
+    position: relative;
+    right: 37px;
+    bottom: 21px; 
+}
+
+#c > div.rect4 {
+    width: 7.5px;
+    height: 49px;
+    border: 1px solid #fff;
+    float: left;
+    position: relative;
+    top: 7px;
+}
+
+#c > div.rect5 {
+    width: 22.5px;
+    height: 7.5px;
+    border: 1px solid #fff;
+    float: left;
+    position: relative;
+    top: 7px;
+    left: -9px;
+}
+
+#c > div.rect6 {
+width: 22.5px;
+height: 7px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 49px;
+left: -34px;
+    
+ }
+ #a{
+    position: relative;
+    right: 62px;
+    bottom: 31px;
+ }
+
+ #a > div.circle1
+{
+    border-radius: 50px;
+    width: 32.5px;
+    height: 32.5px;
+    border: 1px solid #fff;
+         background-color:green;
+    z-index: 1;
+    position: relative;
+   top: 9px;
+}
+#a > div.rect1
+{
+     width: 7.5px;
+height: 32.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 25px;
+left: 25px;
+ }
+#a > div.rect2
+{
+    width: 7.5px;
+height: 32.5px;
+border: 1px solid #fff;
+float: right;
+position: relative;
+top: 25px;
+left: -25px;
+   
+}
+
+#s1{
+        position: relative;
+    right: 38px;
+    bottom: 11px;
+}
+#s1 > div.rect41
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: 16px;
+ }
+ #s1 > div.rect42
+{
+      width: 21.5px;
+height: 7.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: 7px;
+}
+ #s1 > div.rect43
+{
+    width: 20px;
+height: 7.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 41px;
+left: -30px;
+ }
+ #e1{
+        position: relative;
+    right: 48px;
+    bottom: 17px;
+ }
+
+ #e1 > div.rect8
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 7px;
+ }
+ #e1 > div.rect9
+{
+    width: 22.5px;
+height: 7.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 7px;
+left: -9px;
+    
+ }
+ #e1 > div.rect10
+{
+    width: 22.5px;
+height: 7px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 49px;
+left: -34px;
+    
+ }
+ #e1 > div.rect11
+{
+    width: 15.5px;
+height: 7.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 31px;
+left: -58px;
+ }
+
+#l{
+        position: relative;
+    right: 91px;
+    bottom: 10px;
+}
+
+#l > div.rect29
+{
+    width: 7.5px;
+height: 49px;
+    border: 1px solid #fff;
+    float: left;
+   position: relative;
+ }
+ #l > div.rect30
+{
+    width: 22.5px;
+height: 7px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 42px;
+left: -9px;
+    
+ }
+
+#e2{
+    position: relative;
+    right: 92px;
+    bottom: 17px;
+}
+
+  #e2 > div.rect8
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 7px;
+ }
+ #e2 > div.rect9
+{
+    width: 22.5px;
+height: 7.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 7px;
+left: -9px;
+    
+ }
+ #e2 > div.rect10
+{
+    width: 22.5px;
+height: 7px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 49px;
+left: -34px;
+    
+ }
+ #e2 > div.rect11
+{
+    width: 15.5px;
+height: 7.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 31px;
+left: -58px;
+ }
+#s2{
+    position: relative;
+    right: 139px;
+    bottom: 10px;s
+}
+
+ #s2 > div.rect41
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: 16px;
+ }
+ #s2 > div.rect42
+{
+      width: 21.5px;
+height: 7.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: 6px;
+}
+ #s2 > div.rect43
+{
+    width: 20px;
+height: 7.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 41px;
+left: -29px;
+ }
+ /*Css for petra*/
+ #petra{
+    margin-left: 26.5%;
+ }
+ #p
+{
+    
+}
+#p > div.rect37
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+margin-top: 0px;
+z-index: 100;
+background-color: green;
+position: relative;
+ }
+#p > div.circle6
+{
+    border-radius: 50px;
+width: 32.5px;
+height: 32.5px;
+border: 1px solid #fff;
+position: relative;
+left: 0px;
+}
+#e3{
+        position: relative;
+    right: 25px;
+    bottom: 22px;
+}
+
+  #e3 > div.rect8
+{
+     width: 7.5px;
+    height: 49px;
+    border: 1px solid #fff;
+    /* float: left; */
+    position: relative;
+    top: 29px;
+ }
+ #e3 > div.rect9
+{
+ width: 22.5px;
+    height: 7.5px;
+    border: 1px solid #fff;
+    float: left;
+    position: relative;
+    top: 19px;
+    left: 28px;
+    
+ }
+ #e3 > div.rect10
+{
+     width: 22.5px;
+    height: 7px;
+    border: 1px solid #fff;
+    float: left;
+    position: relative;
+    top: -22px;
+    left: 4px;
+    
+ }
+ #e3 > div.rect11
+{
+  width: 15.5px;
+    height: 7.5px;
+    border: 1px solid #fff;
+    float: left;
+    position: relative;
+    top: 0px;
+    left: -21px;
+ }
+  #t1
+{
+    position: relative;
+    right: 26px;
+    bottom: -2px;
+    
+     }
+
+
+#t1 > div.rect44
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+ }
+ #t1 > div.rect45
+{
+    width: 26px;
+height: 7.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: -18px;
+ }
+
+  #r
+{
+        width: 115px;
+    height: 98px;
+    /* margin: 25px; */
+    position: relative;
+    right: 58px;
+    bottom: -24px;
+}
+#r > div.rect39
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+background-color: green;
+z-index: 100;
+left: 20px;
+ }
+ #r > div.circle8
+{
+    border-radius: 50px;
+width: 32.5px;
+height: 32.5px;
+border: 1px solid #fff;
+z-index: 1;
+background-color: green;
+position: relative;
+left: -19px;
+
+}
+#r > div.rect40
+{
+    width: 7.5px;
+height: 20px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: 28px;
+top: 29px;
+ }
+ #a1{
+        position: relative;
+    right: 111px;
+    bottom: 17px;
+ }
+
+ #a1 > div.circle1
+{
+    border-radius: 50px;
+    width: 32.5px;
+    height: 32.5px;
+    border: 1px solid #fff;
+         background-color:green;
+    z-index: 1;
+    position: relative;
+   top: 9px;
+}
+#a1 > div.rect1
+{
+     width: 7.5px;
+height: 32.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 25px;
+left: 25px;
+ }
+#a1 > div.rect2
+{
+    width: 7.5px;
+height: 32.5px;
+border: 1px solid #fff;
+float: right;
+position: relative;
+top: 25px;
+left: -25px;
+   
+}
+
+
+ #k
+{
+    /*width: 115px; */
+    /* height: 98px; */
+    /* margin: 25px; */
+    position: relative;
+    right: 91px;
+    bottom: 1px;
+}
+#k > div.rect26
+{
+         width: 7.5px;
+    height: 49px;
+    border: 1px solid #fff;
+    float: left;
+    position: relative;
+    left: 11px;
+}
+ 
+#k > div.rect27
+{
+        width: 7.5px;
+    height: 38px;
+    border: 1px solid #fff;
+    float: left;
+    position: relative;
+    top: 11px;
+    left: 20px;
+ }
+ #k > div.rect28
+{
+    width: 26px;
+height: 7.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 19px;
+left: -8px;
+ }
+
+  #v
+{
+       position: relative;
+    right: 93px;
+    bottom: 4px;
+}
+
+#v > div.rect49
+{
+     width: 7.5px;
+height: 41px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+    
+ }
+#v > div.rect50
+{
+    width: 7.5px;
+height: 41px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: 12px;
+ }
+ #v > div.rect51
+{
+    width: 12px;
+height: 7.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 42px;
+left: -10px;
+ }
+ #i2{
+          position: relative;
+    right: 108px;
+    bottom: 2px;
+}
+
+#i2 > div{
+        width: 9px;
+    height: 50px;
+    border: 1px solid #ffffff;
+    float: left;
+    margin-left: 20px;
+}
+ #t2
+{
+       position: relative;
+    right: 90px;
+    bottom: 1px;
+
+     }
+
+
+#t2 > div.rect44
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+ }
+#t2 > div.rect45
+{
+    width: 28px;
+height: 7.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: -20px;
+ }
+
+#o1
+{
+     position: relative;
+    top: 26px;
+    right: 108px;
+}
+#o1 > div.circle5
+{
+    border-radius: 50px;
+width: 50px;
+height: 49px;
+border: 1px solid #fff;
+position: relative;
+}
+#o1 > div.rect36
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: -51px;
+left: 22px;
+ }
+
+
+  #v1
+{
+        position: relative;
+    top: -2px;
+    right: 99px;
+}
+
+#v1 > div.rect49
+{
+     width: 7.5px;
+height: 41px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+    
+ }
+#v1 > div.rect50
+{
+    width: 7.5px;
+height: 41px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: 12px;
+ }
+ #v1 > div.rect51
+{
+    width: 12px;
+height: 7.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 42px;
+left: -10px;
+ }
+ #a2{
+    position: relative;
+    right: 94px;
+    bottom: 18px;
+ }
+
+ #a2 > div.circle1
+{
+    border-radius: 50px;
+    width: 32.5px;
+    height: 32.5px;
+    border: 1px solid #fff;
+         background-color:green;
+    z-index: 1;
+    position: relative;
+   top: 9px;
+}
+#a2 > div.rect1
+{
+     width: 7.5px;
+height: 32.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 25px;
+left: 25px;
+ }
+#a2 > div.rect2
+{
+    width: 7.5px;
+height: 32.5px;
+border: 1px solid #fff;
+float: right;
+position: relative;
+top: 25px;
+left: -25px;
+   
+}
+
+/*Css for andy*/
+#andy{
+            margin-left: 29%;
+}
+ #a3{
+    position: relative;
+    
+ }
+
+ #a3 > div.circle1
+{
+    border-radius: 50px;
+    width: 32.5px;
+    height: 32.5px;
+    border: 1px solid #fff;
+         background-color:green;
+    z-index: 1;
+    position: relative;
+   top: 9px;
+}
+#a3 > div.rect1
+{
+     width: 7.5px;
+height: 32.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 25px;
+left: 25px;
+ }
+#a3 > div.rect2
+{
+    width: 7.5px;
+height: 32.5px;
+border: 1px solid #fff;
+float: right;
+position: relative;
+top: 25px;
+left: -25px;
+   
+}
+#n3{
+         position: relative;
+    bottom: -17px;
+    right: -4px;
+
+}
+#n3 > div.rect33
+{
+      width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+ }
+#n3 > div.rect34
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: 20px; 
+ }
+ #n3 > div.rect35
+{
+    width: 37px;
+height: 7.5px;
+border: 1px solid #fff;
+
+position: relative;
+
+ }
+  #d
+{
+        width: 115px;
+    /* height: 98px; */
+    /* margin: 25px; */
+    position: relative;
+    bottom: -6px;
+    right: 8px;
+}
+ #d > div.circle3
+{
+    border-radius: 50px;
+width: 32.5px;
+height: 32.5px;
+border: 1px solid #fff;
+position: relative;
+top: 27px;
+left: -23px;
+}
+#d > div.rect7
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+z-index: 100;
+background-color: green;
+position: relative;
+top: 11px;
+left: 46px;
+ }
+ #y
+{
+        position: relative;
+    bottom: -10px;
+    right: 72px;
+}
+#y > div.rect55
+{
+    width: 7.5px;
+height: 20px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: 10px;
+ }
+#y > div.rect56
+{
+    width: 7.5px;
+height: 20px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: 18px;
+ }
+ #y > div.rect57
+{
+    width: 7.5px;
+height: 35.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 13px;
+left: 0px;
+ }
+
+#m1{
+        /* margin-left: 62px; */
+    position: relative;
+    bottom: -34px;
+    right: 22px;
+}
+#m1 > div.rect31
+{
+      width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+z-index: 1;
+background-color: green;
+position: relative;
+left: -20px;
+ }
+ #m1 > div.circle4
+{
+    border-radius: 50px;
+width: 32.5px;
+height: 32.5px;
+border: 1px solid #fff;
+position: relative;
+left: -17px;
+}
+#m1 > div.rect32
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+z-index: 1;
+background-color: green;
+position: relative;
+top: -35px;
+ }
+
+ #u
+{
+    position: relative;
+    bottom: -18px;
+    right: 34px;
+}
+
+#u > div.rect46
+{
+     width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: 2px;
+    
+ }
+#u > div.rect47
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: 16px;  
+ }
+ #u > div.rect48
+{
+    width: 31px;
+height: 7.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: -17px;
+top: 41px;
+ }
+
+ #r1
+{
+       width: 115px;
+    /* height: 98px; */
+    /* margin: 25px; */
+    position: relative;
+    right: 66px;
+    bottom: -19px;
+}
+#r1 > div.rect39
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+background-color: green;
+z-index: 100;
+left: 20px;
+ }
+ #r1 > div.circle8
+{
+    border-radius: 50px;
+width: 32.5px;
+height: 32.5px;
+border: 1px solid #fff;
+z-index: 1;
+background-color: green;
+position: relative;
+left: -19px;
+
+}
+#r1 > div.rect40
+{
+    width: 7.5px;
+height: 20px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: 28px;
+top: 29px;
+ }
+ #r2
+{
+    width: 115px;
+    /* height: 98px; */
+    /* margin: 25px; */
+    position: relative;
+    right: 142px;
+    bottom: -20px;
+}
+#r2 > div.rect39
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+background-color: green;
+z-index: 100;
+left: 20px;
+ }
+ #r2 > div.circle8
+{
+    border-radius: 50px;
+width: 32.5px;
+height: 32.5px;
+border: 1px solid #fff;
+z-index: 1;
+background-color: green;
+position: relative;
+left: -19px;
+
+}
+#r2 > div.rect40
+{
+    width: 7.5px;
+height: 20px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: 28px;
+top: 29px;
+ }
+ #a4{
+    position: relative;
+    right: 196px;
+    bottom: -2px;
+ }
+
+ #a4 > div.circle1
+{
+    border-radius: 50px;
+    width: 32.5px;
+    height: 32.5px;
+    border: 1px solid #fff;
+         background-color:green;
+    z-index: 1;
+    position: relative;
+   top: 9px;
+}
+#a4 > div.rect1
+{
+     width: 7.5px;
+height: 32.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 25px;
+left: 25px;
+ }
+#a4 > div.rect2
+{
+    width: 7.5px;
+height: 32.5px;
+border: 1px solid #fff;
+float: right;
+position: relative;
+top: 25px;
+left: -25px;
+   
+}
+#y1
+{
+        position: relative;
+    right: 201px;
+    bottom: -13px;
+
+}
+#y1 > div.rect55
+{
+    width: 7.5px;
+height: 20px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: 10px;
+ }
+#y1 > div.rect56
+{
+    width: 7.5px;
+height: 20px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: 18px;
+ }
+ #y1 > div.rect57
+{
+    width: 7.5px;
+height: 35.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 13px;
+left: 0px;
+ }
+
+
+/*Css for francesca*/
+#francesca{
+            margin-left: 19%;
+    margin-top: 2%;
+}
+#f{
+        width: 67px;
+    position: relative;
+}
+#f > div.rect12
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 7px;
+ }
+ #f > div.rect13
+{
+    width: 22.5px;
+height: 7.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 7px;
+left: -10px;
+    
+ }
+#f > div.rect14
+{
+    width: 15.5px;
+height: 7.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 31px;
+left: -34px;
+ }
+ #r3
+{
+           width: 115px;
+    /* height: 98px; */
+    /* margin: 25px; */
+    position: relative;
+    right: 58px;
+    bottom: -7px;
+
+}
+#r3 > div.rect39
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+background-color: green;
+z-index: 100;
+left: 20px;
+ }
+ #r3 > div.circle8
+{
+    border-radius: 50px;
+width: 32.5px;
+height: 32.5px;
+border: 1px solid #fff;
+z-index: 1;
+background-color: green;
+position: relative;
+left: -19px;
+
+}
+#r3 > div.rect40
+{
+    width: 7.5px;
+height: 20px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: 28px;
+top: 29px;
+ }
+
+  #a5{
+        position: relative;
+    right: 113px;
+    bottom: 10px;
+ }
+
+ #a5 > div.circle1
+{
+    border-radius: 50px;
+    width: 32.5px;
+    height: 32.5px;
+    border: 1px solid #fff;
+         background-color:green;
+    z-index: 1;
+    position: relative;
+   top: 9px;
+}
+#a5 > div.rect1
+{
+     width: 7.5px;
+height: 32.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 25px;
+left: 25px;
+ }
+#a5 > div.rect2
+{
+    width: 7.5px;
+height: 32.5px;
+border: 1px solid #fff;
+float: right;
+position: relative;
+top: 25px;
+left: -25px;
+   
+}
+#n4{
+           position: relative;
+    bottom: -8px;
+    right: 107px;
+}
+#n4 > div.rect33
+{
+      width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+ }
+#n4 > div.rect34
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: 20px; 
+ }
+ #n4 > div.rect35
+{
+    width: 37px;
+height: 7.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: -19px;
+ }
+
+ #c1
+{
+     position: relative;
+    right: 120px;
+    bottom: -1px;
+}
+#c1 > div.rect4
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 7px;
+ }
+ #c1 > div.rect5
+{
+    width: 22.5px;
+height: 7.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 7px;
+left: -9px;
+    
+ }
+  #c1 > div.rect6
+{
+    width: 22.5px;
+height: 7px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 49px;
+left: -34px;
+    
+ }
+#e4{
+       position: relative;
+    right: 177px;
+    bottom: 16px;
+}
+
+  #e4 > div.rect8
+{
+     width: 7.5px;
+    height: 49px;
+    border: 1px solid #fff;
+    /* float: left; */
+    position: relative;
+    top: 29px;
+ }
+ #e4 > div.rect9
+{
+ width: 22.5px;
+    height: 7.5px;
+    border: 1px solid #fff;
+    float: left;
+    position: relative;
+    top: 19px;
+    left: 28px;
+    
+ }
+ #e4 > div.rect10
+{
+     width: 22.5px;
+    height: 7px;
+    border: 1px solid #fff;
+    float: left;
+    position: relative;
+    top: -22px;
+    left: 4px;
+    
+ }
+ #e4 > div.rect11
+{
+  width: 15.5px;
+    height: 7.5px;
+    border: 1px solid #fff;
+    float: left;
+    position: relative;
+    top: 0px;
+    left: -21px;
+ }
+ #s3{
+        position: relative;
+    right: 190px;
+    bottom: -8px;
+}
+
+ #s3 > div.rect41
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: 16px;
+ }
+ #s3 > div.rect42
+{
+      width: 21.5px;
+height: 7.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: 6px;
+}
+ #s3 > div.rect43
+{
+    width: 20px;
+height: 7.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 41px;
+left: -29px;
+ }
+ #c2
+{
+      position: relative;
+    right: 201px;
+    bottom: 0px;
+}
+#c2 > div.rect4
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 7px;
+ }
+ #c2 > div.rect5
+{
+    width: 22.5px;
+height: 7.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 7px;
+left: -9px;
+    
+ }
+  #c2 > div.rect6
+{
+    width: 22.5px;
+height: 7px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 49px;
+left: -34px;
+    
+ }
+  #a6{
+    position: relative;
+    right: 228px;
+    bottom: 11px;
+ }
+
+ #a6 > div.circle1
+{
+    border-radius: 50px;
+    width: 32.5px;
+    height: 32.5px;
+    border: 1px solid #fff;
+         background-color:green;
+    z-index: 1;
+    position: relative;
+   top: 9px;
+}
+#a6 > div.rect1
+{
+     width: 7.5px;
+height: 32.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 25px;
+left: 25px;
+ }
+#a6 > div.rect2
+{
+    width: 7.5px;
+height: 32.5px;
+border: 1px solid #fff;
+float: right;
+position: relative;
+top: 25px;
+left: -25px;
+   
+}
+
+#s4{
+    position: relative;
+    right: 205px;
+    bottom: -7px;
+}
+
+ #s4 > div.rect41
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: 16px;
+ }
+ #s4 > div.rect42
+{
+      width: 21.5px;
+height: 7.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: 6px;
+}
+ #s4 > div.rect43
+{
+    width: 20px;
+height: 7.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 41px;
+left: -29px;
+ }
+#c3
+{
+      position: relative;
+    right: 215px;
+    bottom: 1px;
+}
+#c3 > div.rect4
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 7px;
+ }
+ #c3 > div.rect5
+{
+    width: 22.5px;
+height: 7.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 7px;
+left: -9px;
+    
+ }
+  #c3 > div.rect6
+{
+    width: 22.5px;
+height: 7px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 49px;
+left: -34px;
+    
+ }
+
+  #h
+ {
+     position: relative;
+    right: 283px;
+    bottom: -6px;
+
+ }
+#h > div.rect19
+{
+     width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: 40px;
+ }
+#h > div.rect20
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: 52px;
+ }
+ #h > div.rect21
+{
+    width: 29px;
+height: 7.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 22px;
+left: 21px;
+ }
+ #i3{
+     position: relative;
+    right: 279px;
+    bottom: -5px;
+}
+
+#i3 > div{
+        width: 9px;
+    height: 50px;
+    border: 1px solid #ffffff;
+    float: left;
+    margin-left: 20px;
+}
+ #a7{
+        position: relative;
+    right: 276px;
+    bottom: 13px;
+ }
+
+ #a7 > div.circle1
+{
+    border-radius: 50px;
+    width: 32.5px;
+    height: 32.5px;
+    border: 1px solid #fff;
+         background-color:green;
+    z-index: 1;
+    position: relative;
+   top: 9px;
+}
+#a7 > div.rect1
+{
+     width: 7.5px;
+height: 32.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 25px;
+left: 25px;
+ }
+#a7 > div.rect2
+{
+    width: 7.5px;
+height: 32.5px;
+border: 1px solid #fff;
+float: right;
+position: relative;
+top: 25px;
+left: -25px;
+   
+}
+ #v2
+{
+       position: relative;
+    top: 0px;
+    right: 273px;
+}
+
+#v2 > div.rect49
+{
+     width: 7.5px;
+height: 41px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+    
+ }
+#v2 > div.rect50
+{
+    width: 7.5px;
+height: 41px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: 12px;
+ }
+ #v2 > div.rect51
+{
+    width: 12px;
+height: 7.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 42px;
+left: -10px;
+ }
+ #o2
+{
+        position: relative;
+    top: 28px;
+    right: 272px;
+}
+#o2 > div.circle5
+{
+    border-radius: 50px;
+width: 50px;
+height: 49px;
+border: 1px solid #fff;
+position: relative;
+}
+#o2 > div.rect36
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: -51px;
+left: 22px;
+ }
+
+#n5{
+          position: relative;
+    bottom: -3px;
+    right: 268px;
+}
+#n5 > div.rect33
+{
+      width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+ }
+#n5 > div.rect34
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: 20px; 
+ }
+ #n5 > div.rect35
+{
+    width: 37px;
+height: 7.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: -19px;
+ }
+#e5{
+           position: relative;
+    right: 312px;
+    bottom: 22px;
+}
+
+  #e5 > div.rect8
+{
+     width: 7.5px;
+    height: 49px;
+    border: 1px solid #fff;
+    /* float: left; */
+    position: relative;
+    top: 29px;
+ }
+ #e5 > div.rect9
+{
+ width: 22.5px;
+    height: 7.5px;
+    border: 1px solid #fff;
+    float: left;
+    position: relative;
+    top: 19px;
+    left: 28px;
+    
+ }
+ #e5 > div.rect10
+{
+     width: 22.5px;
+    height: 7px;
+    border: 1px solid #fff;
+    float: left;
+    position: relative;
+    top: -22px;
+    left: 4px;
+    
+ }
+ #e5 > div.rect11
+{
+  width: 15.5px;
+    height: 7.5px;
+    border: 1px solid #fff;
+    float: left;
+    position: relative;
+    top: 0px;
+    left: -21px;
+ }
+
+
+/*Css for david*/
+#david{
+        margin-left: 28%;
+    margin-top: 2%;
+}
+
+
+
+ #d1
+{
+    width: 115px;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+ #d1 > div.circle3
+{
+    border-radius: 50px;
+width: 32.5px;
+height: 32.5px;
+border: 1px solid #fff;
+position: relative;
+top: 27px;
+left: -23px;
+}
+#d1 > div.rect7
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+z-index: 100;
+background-color: green;
+position: relative;
+top: 11px;
+left: 46px;
+ }
+
+#a8{
+        position: relative;
+    right: 58px;
+    bottom: 7px;
+ }
+
+ #a8 > div.circle1
+{
+    border-radius: 50px;
+    width: 32.5px;
+    height: 32.5px;
+    border: 1px solid #fff;
+         background-color:green;
+    z-index: 1;
+    position: relative;
+   top: 9px;
+}
+#a8 > div.rect1
+{
+     width: 7.5px;
+height: 32.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 25px;
+left: 25px;
+ }
+#a8 > div.rect2
+{
+    width: 7.5px;
+height: 32.5px;
+border: 1px solid #fff;
+float: right;
+position: relative;
+top: 25px;
+left: -25px;
+   
+}
+ #v3
+{
+     position: relative;
+    top: 5px;
+    right: 56px;
+}
+
+#v3 > div.rect49
+{
+     width: 7.5px;
+height: 41px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+    
+ }
+#v3 > div.rect50
+{
+    width: 7.5px;
+height: 41px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: 12px;
+ }
+ #v3 > div.rect51
+{
+    width: 12px;
+height: 7.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 42px;
+left: -10px;
+ }
+#i6{
+          position: relative;
+    right: 76px;
+    bottom: -9px;
+}
+
+#i6 > div{
+        width: 9px;
+    height: 50px;
+    border: 1px solid #ffffff;
+    float: left;
+    margin-left: 20px;
+}
+ #d2
+{
+     width: 115px;
+    position: relative;
+    bottom: 1px;
+    right: 90px;
+
+}
+ #d2 > div.circle3
+{
+    border-radius: 50px;
+width: 32.5px;
+height: 32.5px;
+border: 1px solid #fff;
+position: relative;
+top: 27px;
+left: -23px;
+}
+#d2 > div.rect7
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+z-index: 100;
+background-color: green;
+position: relative;
+top: 11px;
+left: 46px;
+ }
+#f1{
+    position: relative;
+    bottom: -3px;
+    right: 126px;
+}
+#f1 > div.rect12
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 7px;
+ }
+ #f1 > div.rect13
+{
+    width: 22.5px;
+height: 7.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 7px;
+left: -10px;
+    
+ }
+#f1 > div.rect14
+{
+    width: 15.5px;
+height: 7.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 31px;
+left: -34px;
+ }
+#e6{
+        position: relative;
+    right: 178px;
+    bottom: 15px;
+}
+
+  #e6 > div.rect8
+{
+     width: 7.5px;
+    height: 49px;
+    border: 1px solid #fff;
+    /* float: left; */
+    position: relative;
+    top: 29px;
+ }
+ #e6 > div.rect9
+{
+ width: 22.5px;
+    height: 7.5px;
+    border: 1px solid #fff;
+    float: left;
+    position: relative;
+    top: 19px;
+    left: 28px;
+    
+ }
+ #e6 > div.rect10
+{
+     width: 22.5px;
+    height: 7px;
+    border: 1px solid #fff;
+    float: left;
+    position: relative;
+    top: -22px;
+    left: 4px;
+    
+ }
+ #e6 > div.rect11
+{
+  width: 15.5px;
+    height: 7.5px;
+    border: 1px solid #fff;
+    float: left;
+    position: relative;
+    top: 0px;
+    left: -21px;
+ }
+
+ #r4
+{
+        width: 114px;
+    /* height: 98px; */
+    /* margin: 25px; */
+    position: relative;
+    right: 207px;
+    bottom: -9px;
+}
+#r4 > div.rect39
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+background-color: green;
+z-index: 100;
+left: 20px;
+ }
+ #r4 > div.circle8
+{
+    border-radius: 50px;
+width: 32.5px;
+height: 32.5px;
+border: 1px solid #fff;
+z-index: 1;
+background-color: green;
+position: relative;
+left: -19px;
+
+}
+#r4 > div.rect40
+{
+    width: 7.5px;
+height: 20px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: 28px;
+top: 29px;
+ }
+ #r5
+{
+       width: 114px;
+    /* height: 98px; */
+    /* margin: 25px; */
+    position: relative;
+    right: 283px;
+    bottom: -9px;
+}
+#r5 > div.rect39
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+background-color: green;
+z-index: 100;
+left: 20px;
+ }
+ #r5 > div.circle8
+{
+    border-radius: 50px;
+width: 32.5px;
+height: 32.5px;
+border: 1px solid #fff;
+z-index: 1;
+background-color: green;
+position: relative;
+left: -19px;
+
+}
+#r5 > div.rect40
+{
+    width: 7.5px;
+height: 20px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: 28px;
+top: 29px;
+ }
+
+
+
+
+
+
+
+#e7{
+         position: relative;
+    right: 366px;
+    bottom: 14px;
+}
+
+  #e7 > div.rect8
+{
+     width: 7.5px;
+    height: 49px;
+    border: 1px solid #fff;
+    /* float: left; */
+    position: relative;
+    top: 29px;
+ }
+ #e7 > div.rect9
+{
+ width: 22.5px;
+    height: 7.5px;
+    border: 1px solid #fff;
+    float: left;
+    position: relative;
+    top: 19px;
+    left: 28px;
+    
+ }
+ #e7 > div.rect10
+{
+     width: 22.5px;
+    height: 7px;
+    border: 1px solid #fff;
+    float: left;
+    position: relative;
+    top: -22px;
+    left: 4px;
+    
+ }
+ #e7 > div.rect11
+{
+  width: 15.5px;
+    height: 7.5px;
+    border: 1px solid #fff;
+    float: left;
+    position: relative;
+    top: 0px;
+    left: -21px;
+ }
+ #r6
+{
+          width: 114px;
+    /* height: 98px; */
+    /* margin: 25px; */
+    position: relative;
+    right: 396px;
+    bottom: -9px;
+}
+#r6 > div.rect39
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+background-color: green;
+z-index: 100;
+left: 20px;
+ }
+ #r6 > div.circle8
+{
+    border-radius: 50px;
+width: 32.5px;
+height: 32.5px;
+border: 1px solid #fff;
+z-index: 1;
+background-color: green;
+position: relative;
+left: -19px;
+
+}
+#r6 > div.rect40
+{
+    width: 7.5px;
+height: 20px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: 28px;
+top: 29px;
+ }
+
+
+/*Css for maria*/
+#maria{
+margin-left: 25%;
+    margin-top: 4%;
+}
+#m2{
+        /* margin-left: 62px; */
+    position: relative;
+    
+}
+#m2 > div.rect31
+{
+      width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+z-index: 1;
+background-color: green;
+position: relative;
+left: -20px;
+ }
+ #m2 > div.circle4
+{
+    border-radius: 50px;
+width: 32.5px;
+height: 32.5px;
+border: 1px solid #fff;
+position: relative;
+left: -17px;
+}
+#m2 > div.rect32
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+z-index: 1;
+background-color: green;
+position: relative;
+top: -35px;
+ }
+#a9{
+   position: relative;
+    right: 13px;
+    bottom: 34px;
+ }
+
+ #a9 > div.circle1
+{
+    border-radius: 50px;
+    width: 32.5px;
+    height: 32.5px;
+    border: 1px solid #fff;
+         background-color:green;
+    z-index: 1;
+    position: relative;
+   top: 9px;
+}
+#a9 > div.rect1
+{
+     width: 7.5px;
+height: 32.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 25px;
+left: 25px;
+ }
+#a9 > div.rect2
+{
+    width: 7.5px;
+height: 32.5px;
+border: 1px solid #fff;
+float: right;
+position: relative;
+top: 25px;
+left: -25px;
+   
+}
+ #r7
+{
+            width: 114px;
+    /* height: 98px; */
+    /* margin: 25px; */
+    position: relative;
+    right: 31px;
+    bottom: 16px;
+}
+#r7 > div.rect39
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+background-color: green;
+z-index: 100;
+left: 20px;
+ }
+ #r7 > div.circle8
+{
+    border-radius: 50px;
+width: 32.5px;
+height: 32.5px;
+border: 1px solid #fff;
+z-index: 1;
+background-color: green;
+position: relative;
+left: -19px;
+
+}
+#r7 > div.rect40
+{
+    width: 7.5px;
+height: 20px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: 28px;
+top: 29px;
+ }
+#i4{
+          position: relative;
+    right: 108px;
+    bottom: 16px;
+}
+
+#i4 > div{
+        width: 9px;
+    height: 50px;
+    border: 1px solid #ffffff;
+    float: left;
+    margin-left: 20px;
+}
+
+#a10{
+    position: relative;
+    right: 104px;
+    bottom: 33px;
+ }
+
+ #a10 > div.circle1
+{
+    border-radius: 50px;
+    width: 32.5px;
+    height: 32.5px;
+    border: 1px solid #fff;
+         background-color:green;
+    z-index: 1;
+    position: relative;
+   top: 9px;
+}
+#a10 > div.rect1
+{
+     width: 7.5px;
+height: 32.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 25px;
+left: 25px;
+ }
+#a10 > div.rect2
+{
+    width: 7.5px;
+height: 32.5px;
+border: 1px solid #fff;
+float: right;
+position: relative;
+top: 25px;
+left: -25px;
+   
+}
+#s5{
+    position: relative;
+    right: 94px;
+    bottom: 15px;
+}
+
+ #s5 > div.rect41
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: 16px;
+ }
+ #s5 > div.rect42
+{
+      width: 21.5px;
+height: 7.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: 6px;
+}
+ #s5 > div.rect43
+{
+    width: 20px;
+height: 7.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 41px;
+left: -29px;
+ }
+ #h1
+ {
+        position: relative;
+    right: 148px;
+    bottom: 14px;
+
+ }
+#h1 > div.rect19
+{
+     width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: 40px;
+ }
+#h1 > div.rect20
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: 52px;
+ }
+ #h1 > div.rect21
+{
+    width: 29px;
+height: 7.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 22px;
+left: 21px;
+ }
+ #a11{
+    position: relative;
+    right: 122px;
+    bottom: 31px;
+ }
+
+ #a11 > div.circle1
+{
+    border-radius: 50px;
+    width: 32.5px;
+    height: 32.5px;
+    border: 1px solid #fff;
+         background-color:green;
+    z-index: 1;
+    position: relative;
+   top: 9px;
+}
+#a11 > div.rect1
+{
+     width: 7.5px;
+height: 32.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 25px;
+left: 25px;
+ }
+#a11 > div.rect2
+{
+    width: 7.5px;
+height: 32.5px;
+border: 1px solid #fff;
+float: right;
+position: relative;
+top: 25px;
+left: -25px;
+   
+}
+ #r8
+{    width: 114px;
+    /* height: 98px; */
+    /* margin: 25px; */
+    position: relative;
+    right: 140px;
+    bottom: 13px;
+}
+#r8 > div.rect39
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+background-color: green;
+z-index: 100;
+left: 20px;
+ }
+ #r8 > div.circle8
+{
+    border-radius: 50px;
+width: 32.5px;
+height: 32.5px;
+border: 1px solid #fff;
+z-index: 1;
+background-color: green;
+position: relative;
+left: -19px;
+
+}
+#r8 > div.rect40
+{
+    width: 7.5px;
+height: 20px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: 28px;
+top: 29px;
+ }
+#a12{
+        position: relative;
+    right: 197px;
+    bottom: 30px;
+ }
+
+ #a12 > div.circle1
+{
+    border-radius: 50px;
+    width: 32.5px;
+    height: 32.5px;
+    border: 1px solid #fff;
+         background-color:green;
+    z-index: 1;
+    position: relative;
+   top: 9px;
+}
+#a12 > div.rect1
+{
+     width: 7.5px;
+height: 32.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 25px;
+left: 25px;
+ }
+#a12 > div.rect2
+{
+    width: 7.5px;
+height: 32.5px;
+border: 1px solid #fff;
+float: right;
+position: relative;
+top: 25px;
+left: -25px;
+   
+}
+ #p1
+{
+        position: relative;
+    right: 197px;
+    bottom: 13px;
+}
+#p1 > div.rect37
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+margin-top: 0px;
+z-index: 100;
+background-color: green;
+position: relative;
+ }
+#p1 > div.circle6
+{
+    border-radius: 50px;
+width: 32.5px;
+height: 32.5px;
+border: 1px solid #fff;
+position: relative;
+left: 0px;
+}
+
+#o3
+{
+       position: relative;
+    top: 14px;
+    right: 197px;
+}
+#o3 > div.circle5
+{
+    border-radius: 50px;
+width: 50px;
+height: 49px;
+border: 1px solid #fff;
+position: relative;
+}
+#o3 > div.rect36
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: -51px;
+left: 22px;
+ }
+
+  #v4
+{
+         position: relative;
+    top: -12px;
+    right: 195px;
+}
+
+#v4 > div.rect49
+{
+     width: 7.5px;
+height: 41px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+    
+ }
+#v4 > div.rect50
+{
+    width: 7.5px;
+height: 41px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: 12px;
+ }
+ #v4 > div.rect51
+{
+    width: 12px;
+height: 7.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 42px;
+left: -10px;
+ }
+
+#a13{
+        position: relative;
+    right: 194px;
+    bottom: 27px;
+ }
+
+ #a13 > div.circle1
+{
+    border-radius: 50px;
+    width: 32.5px;
+    height: 32.5px;
+    border: 1px solid #fff;
+         background-color:green;
+    z-index: 1;
+    position: relative;
+   top: 9px;
+}
+#a13 > div.rect1
+{
+     width: 7.5px;
+height: 32.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 25px;
+left: 25px;
+ }
+#a13 > div.rect2
+{
+    width: 7.5px;
+height: 32.5px;
+border: 1px solid #fff;
+float: right;
+position: relative;
+top: 25px;
+left: -25px;
+   
+}
+
+/*Css for serena*/
+#serena{
+    margin-left: 25%; 
+}
+#s6{
+    position: relative;
+    
+}
+
+ #s6 > div.rect41
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: 16px;
+ }
+ #s6 > div.rect42
+{
+      width: 21.5px;
+height: 7.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: 6px;
+}
+ #s6 > div.rect43
+{
+    width: 20px;
+height: 7.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 41px;
+left: -29px;
+ }
+
+#e8{
+            position: relative;
+    right: 41px;
+    bottom: 24px;
+}
+
+  #e8 > div.rect8
+{
+     width: 7.5px;
+    height: 49px;
+    border: 1px solid #fff;
+    /* float: left; */
+    position: relative;
+    top: 29px;
+ }
+ #e8 > div.rect9
+{
+ width: 22.5px;
+    height: 7.5px;
+    border: 1px solid #fff;
+    float: left;
+    position: relative;
+    top: 19px;
+    left: 28px;
+    
+ }
+ #e8 > div.rect10
+{
+     width: 22.5px;
+    height: 7px;
+    border: 1px solid #fff;
+    float: left;
+    position: relative;
+    top: -22px;
+    left: 4px;
+    
+ }
+ #e8 > div.rect11
+{
+  width: 15.5px;
+    height: 7.5px;
+    border: 1px solid #fff;
+    float: left;
+    position: relative;
+    top: 0px;
+    left: -21px;
+ }
+  #r9
+{width: 114px;
+    /* height: 98px; */
+    /* margin: 25px; */
+    position: relative;
+    right: 74px;
+    bottom: 0px;
+}
+#r9 > div.rect39
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+background-color: green;
+z-index: 100;
+left: 20px;
+ }
+ #r9 > div.circle8
+{
+    border-radius: 50px;
+width: 32.5px;
+height: 32.5px;
+border: 1px solid #fff;
+z-index: 1;
+background-color: green;
+position: relative;
+left: -19px;
+
+}
+#r9 > div.rect40
+{
+    width: 7.5px;
+height: 20px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: 28px;
+top: 29px;
+ }
+
+#e9{
+     position: relative;
+    right: 157px;
+    bottom: 24px;
+}
+
+  #e9 > div.rect8
+{
+     width: 7.5px;
+    height: 49px;
+    border: 1px solid #fff;
+    /* float: left; */
+    position: relative;
+    top: 29px;
+ }
+ #e9 > div.rect9
+{
+ width: 22.5px;
+    height: 7.5px;
+    border: 1px solid #fff;
+    float: left;
+    position: relative;
+    top: 19px;
+    left: 28px;
+    
+ }
+ #e9 > div.rect10
+{
+     width: 22.5px;
+    height: 7px;
+    border: 1px solid #fff;
+    float: left;
+    position: relative;
+    top: -22px;
+    left: 4px;
+    
+ }
+ #e9 > div.rect11
+{
+  width: 15.5px;
+    height: 7.5px;
+    border: 1px solid #fff;
+    float: left;
+    position: relative;
+    top: 0px;
+    left: -21px;
+ }
+ #n6{
+         position: relative;
+    bottom: -1px;
+    right: 168px;
+}
+#n6 > div.rect33
+{
+      width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+ }
+#n6 > div.rect34
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: 20px; 
+ }
+ #n6 > div.rect35
+{
+    width: 37px;
+height: 7.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: -19px;
+ }
+ #a14{
+        position: relative;
+    right: 184px;
+    bottom: 16px;
+ }
+
+ #a14 > div.circle1
+{
+    border-radius: 50px;
+    width: 32.5px;
+    height: 32.5px;
+    border: 1px solid #fff;
+         background-color:green;
+    z-index: 1;
+    position: relative;
+   top: 9px;
+}
+#a14 > div.rect1
+{
+     width: 7.5px;
+height: 32.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 25px;
+left: 25px;
+ }
+#a14 > div.rect2
+{
+    width: 7.5px;
+height: 32.5px;
+border: 1px solid #fff;
+float: right;
+position: relative;
+top: 25px;
+left: -25px;
+   
+}
+ #w
+{
+        position: relative;
+    bottom: 3px;
+    right: 190px;
+}
+#w > div.rect52
+{
+      width: 7.5px;
+height: 41px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: 20px;
+ }
+#w > div.rect53
+{
+    width: 7.5px;
+height: 41px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: 28px;
+ }
+ #w > div.rect54
+{
+    width: 7.5px;
+height: 19.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 30px;
+left: 10px;
+ }
+
+ #i5{
+     position: relative;
+    right: 189px;
+    bottom: -1px;
+}
+
+#i5 > div{
+        width: 9px;
+    height: 50px;
+    border: 1px solid #ffffff;
+    float: left;
+    margin-left: 20px;
+}
+#l1{
+       position: relative;
+    right: 186px;
+    bottom: -1px;
+}
+
+#l1 > div.rect29
+{
+    width: 7.5px;
+height: 49px;
+    border: 1px solid #fff;
+    float: left;
+   position: relative;
+ }
+ #l1 > div.rect30
+{
+    width: 22.5px;
+height: 7px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 42px;
+left: -9px;
+    
+ }
+#l2{
+       position: relative;
+    right: 192px;
+    bottom: -1px;
+}
+
+#l2 > div.rect29
+{
+    width: 7.5px;
+height: 49px;
+    border: 1px solid #fff;
+    float: left;
+   position: relative;
+ }
+ #l2 > div.rect30
+{
+    width: 22.5px;
+height: 7px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 42px;
+left: -9px;
+    
+ }
+ #i7{
+         position: relative;
+    right: 217px;
+    bottom: 0px;
+}
+
+#i7 > div{
+        width: 9px;
+    height: 50px;
+    border: 1px solid #ffffff;
+    float: left;
+    margin-left: 20px;
+}
+#a15{
+    position: relative;
+    right: 213px;
+    bottom: 17px;
+ }
+
+ #a15 > div.circle1
+{
+    border-radius: 50px;
+    width: 32.5px;
+    height: 32.5px;
+    border: 1px solid #fff;
+         background-color:green;
+    z-index: 1;
+    position: relative;
+   top: 9px;
+}
+#a15 > div.rect1
+{
+     width: 7.5px;
+height: 32.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 25px;
+left: 25px;
+ }
+#a15 > div.rect2
+{
+    width: 7.5px;
+height: 32.5px;
+border: 1px solid #fff;
+float: right;
+position: relative;
+top: 25px;
+left: -25px;
+   
+}
+#m3{
+     position: relative;
+    bottom: -18px;
+    right: 191px;
+}
+#m3 > div.rect31
+{
+      width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+z-index: 1;
+background-color: green;
+position: relative;
+left: -20px;
+ }
+ #m3 > div.circle4
+{
+    border-radius: 50px;
+width: 32.5px;
+height: 32.5px;
+border: 1px solid #fff;
+position: relative;
+left: -17px;
+}
+#m3 > div.rect32
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+z-index: 1;
+background-color: green;
+position: relative;
+top: -35px;
+ }
+ #s7{
+        position: relative;
+    right: 207px;
+    bottom: -1px;
+}
+
+ #s7 > div.rect41
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: 16px;
+ }
+ #s7 > div.rect42
+{
+      width: 21.5px;
+height: 7.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: 6px;
+}
+ #s7 > div.rect43
+{
+    width: 20px;
+height: 7.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 41px;
+left: -29px;
+ }
+
+
+/*Css for rafael*/
+#rafael{
+        margin-left: 27%;
+    margin-top: 3%;
+}
+ #r10
+{
+       width: 114px;
+    /* height: 98px; */
+    /* margin: 25px; */
+    position: relative;
+    /* right: 396px; */
+    /* bottom: -9px; */
+}
+#r10 > div.rect39
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+background-color: green;
+z-index: 100;
+left: 20px;
+ }
+ #r10 > div.circle8
+{
+    border-radius: 50px;
+width: 32.5px;
+height: 32.5px;
+border: 1px solid #fff;
+z-index: 1;
+background-color: green;
+position: relative;
+left: -19px;
+
+}
+#r10 > div.rect40
+{
+    width: 7.5px;
+height: 20px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: 28px;
+top: 29px;
+ }
+#a16{
+        position: relative;
+    right: 58px;
+    bottom: 18px;
+ }
+
+ #a16 > div.circle1
+{
+    border-radius: 50px;
+    width: 32.5px;
+    height: 32.5px;
+    border: 1px solid #fff;
+         background-color:green;
+    z-index: 1;
+    position: relative;
+   top: 9px;
+}
+#a16 > div.rect1
+{
+     width: 7.5px;
+height: 32.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 25px;
+left: 25px;
+ }
+#a16 > div.rect2
+{
+    width: 7.5px;
+height: 32.5px;
+border: 1px solid #fff;
+float: right;
+position: relative;
+top: 25px;
+left: -25px;
+   
+}
+
+#f2{
+    position: relative;
+    bottom: 8px;
+    right: 56px;
+}
+#f2 > div.rect12
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 7px;
+ }
+ #f2 > div.rect13
+{
+    width: 22.5px;
+height: 7.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 7px;
+left: -10px;
+    
+ }
+#f2 > div.rect14
+{
+    width: 15.5px;
+height: 7.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 31px;
+left: -34px;
+ }
+
+#a17{
+        position: relative;
+    right: 83px;
+    bottom: 18px;
+ }
+
+ #a17 > div.circle1
+{
+    border-radius: 50px;
+    width: 32.5px;
+    height: 32.5px;
+    border: 1px solid #fff;
+         background-color:green;
+    z-index: 1;
+    position: relative;
+   top: 9px;
+}
+#a17 > div.rect1
+{
+     width: 7.5px;
+height: 32.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 25px;
+left: 25px;
+ }
+#a17 > div.rect2
+{
+    width: 7.5px;
+height: 32.5px;
+border: 1px solid #fff;
+float: right;
+position: relative;
+top: 25px;
+left: -25px;
+   
+}
+#e10{
+     position: relative;
+    right: 108px;
+    bottom: 25px;
+}
+
+  #e10 > div.rect8
+{
+     width: 7.5px;
+    height: 49px;
+    border: 1px solid #fff;
+    /* float: left; */
+    position: relative;
+    top: 29px;
+ }
+ #e10 > div.rect9
+{
+ width: 22.5px;
+    height: 7.5px;
+    border: 1px solid #fff;
+    float: left;
+    position: relative;
+    top: 19px;
+    left: 28px;
+    
+ }
+ #e10 > div.rect10
+{
+     width: 22.5px;
+    height: 7px;
+    border: 1px solid #fff;
+    float: left;
+    position: relative;
+    top: -22px;
+    left: 4px;
+    
+ }
+ #e10 > div.rect11
+{
+  width: 15.5px;
+    height: 7.5px;
+    border: 1px solid #fff;
+    float: left;
+    position: relative;
+    top: 0px;
+    left: -21px;
+ }
+ #l3{
+   position: relative;
+    right: 117px;
+    bottom: 2px;
+}
+
+#l3 > div.rect29
+{
+    width: 7.5px;
+height: 49px;
+    border: 1px solid #fff;
+    float: left;
+   position: relative;
+ }
+ #l3 > div.rect30
+{
+    width: 22.5px;
+height: 7px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 42px;
+left: -9px;
+    
+ }
+
+ #n7{
+     position: relative;
+    bottom: 2px;
+    right: 107px;
+}
+#n7 > div.rect33
+{
+      width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+ }
+#n7 > div.rect34
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: 20px; 
+ }
+ #n7 > div.rect35
+{
+    width: 37px;
+height: 7.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+left: -19px;
+ }
+ #a18{
+    position: relative;
+    right: 121px;
+    bottom: 19px;
+ }
+
+ #a18 > div.circle1
+{
+    border-radius: 50px;
+    width: 32.5px;
+    height: 32.5px;
+    border: 1px solid #fff;
+         background-color:green;
+    z-index: 1;
+    position: relative;
+   top: 9px;
+}
+#a18 > div.rect1
+{
+     width: 7.5px;
+height: 32.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 25px;
+left: 25px;
+ }
+#a18 > div.rect2
+{
+    width: 7.5px;
+height: 32.5px;
+border: 1px solid #fff;
+float: right;
+position: relative;
+top: 25px;
+left: -25px;
+   
+}
+
+ #d3
+{
+       width: 115px;
+    position: relative;
+    bottom: 12px;
+    right: 135px;
+
+}
+ #d3 > div.circle3
+{
+    border-radius: 50px;
+width: 32.5px;
+height: 32.5px;
+border: 1px solid #fff;
+position: relative;
+top: 27px;
+left: -23px;
+}
+#d3 > div.rect7
+{
+    width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+z-index: 100;
+background-color: green;
+position: relative;
+top: 11px;
+left: 46px;
+ }
+ #a19{
+        position: relative;
+    right: 189px;
+    bottom: 19px;
+ }
+
+ #a19 > div.circle1
+{
+    border-radius: 50px;
+    width: 32.5px;
+    height: 32.5px;
+    border: 1px solid #fff;
+         background-color:green;
+    z-index: 1;
+    position: relative;
+   top: 9px;
+}
+#a19 > div.rect1
+{
+     width: 7.5px;
+height: 32.5px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 25px;
+left: 25px;
+ }
+#a19 > div.rect2
+{
+    width: 7.5px;
+height: 32.5px;
+border: 1px solid #fff;
+float: right;
+position: relative;
+top: 25px;
+left: -25px;
+}
+
+#l4 {
+    position: relative;
+    right: 186px;
+    bottom: 3px;
+}
+
+#l4 > div.rect29 {
+width: 7.5px;
+height: 49px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+}
+
+#l4 > div.rect30 {
+
+width: 22.5px;
+height: 7px;
+border: 1px solid #fff;
+float: left;
+position: relative;
+top: 42px;
+left: -9px;
+}
+
+button {
+    background: transparent;
+    border: none !important;
+    font-size:0;
+    width: 100%;
+}
